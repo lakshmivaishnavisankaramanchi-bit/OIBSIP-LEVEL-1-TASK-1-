@@ -1,49 +1,32 @@
-# 🌐 Simple Landing Page
-A basic and responsive Landing Page built using HTML & CSS.
-This project is beginner-friendly and helps in understanding the core structure of web pages.
+# 🌐 Landing Page – Level 1 Task 1
+Internship: Oasis Infobyte – Web Development and Designing
 
-# 📌 Project Overview
-This landing page contains:
-Header section with title and button
-About section describing the page
-Clean and simple UI
-Beginner-level HTML structure
+# 📖 Project Overview
+This project is part of my Level 1 tasks at Oasis Infobyte. The goal is to create a Landing Page using HTML and CSS. It helps build a strong foundation in front-end web development by focusing on layout, alignment, color palette, and design structure.
 
-# 🛠️ Technologies Used
+# 🧠 Skills Gained
+HTML structure and page layout
+CSS styling and positioning
+Section division and alignment
+Header and footer design
+Creativity in web design
+
+# ⚙️ Features
+Clean and responsive layout
+Proper use of padding, margin, and colors
+Organized sections (Header, About, Contact, Footer)
+User-friendly and visually appealing design
+
+# 💻 Technologies Used
 HTML5
 CSS3
 
-# 🎯 Features
-Simple layout
-Easy-to-understand code
-Beginner friendly
-Responsive design (basic)
+# 🚀 Outcome
+Successfully built a static landing page that demonstrates front-end design skills and understanding of basic web elements.
 
-# 📂 Project Structure
-├── index.html
-├── style.css
-└── README.md
+# 📸 Demo
+You can view the demo by clicking here:
+https://www.linkedin.com/in/lakshmi-vaishnavi-36518a2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-# 🚀 How to Run the Project
-1. Download or clone the repository
-2. Open the folder in VS Code
-3. Open index.html
-4. Right-click → Open with Live Server
-(or simply open in browser)
-
-# 📖 What I Learned
-HTML page structure
-Using CSS for styling
-Creating sections and buttons
-Linking CSS to HTML
-
-# 🔗 Future Improvements
-Add animations
-Improve responsiveness
-Add JavaScript functionality
-
-# 🙌 Acknowledgements
-This project was created as part of my learning journey in Web Development.
-
-
-
+# 🏷️ Acknowledgment
+Special thanks to Oasis Infobyte for the opportunity to enhance my web development skills and creativity.
